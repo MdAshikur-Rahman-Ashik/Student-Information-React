@@ -40,8 +40,8 @@
 </ul>
 
 <h3>📂 Clone the Repository</h3>
-<pre><code>git clone https://github.com/xisxus/React-CRUD.git
-git clone https://github.com/xisxus/AspNetCoreWebApi-CRUD.git
+<pre><code>https://github.com/MdAshikur-Rahman-Ashik/Student-Information-React.git
+ https://github.com/MdAshikur-Rahman-Ashik/Student-InformationReactApi.git
 </code></pre>
 
 <h3>Frontend Setup</h3>
@@ -78,7 +78,7 @@ git clone https://github.com/xisxus/AspNetCoreWebApi-CRUD.git
 </ul>
 
 <h2 id="usage">💻 Usage</h2>
-<p>Once both the frontend and backend servers are running, navigate to <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to access the React application. You can now create, read, update, and delete student records using the user interface.</p>
+<p>Once both the frontend and backend servers are running, navigate to <a href="http://localhost:5014" target="_blank">http://localhost:5014</a> in your browser to access the React application. You can now create, read, update, and delete student records using the user interface.</p>
 
 <h2 id="contributing">🤝 Contributing</h2>
 <p>Contributions are welcome! If you have suggestions for improvements or want to report issues, please create an issue or submit a pull request.</p>
