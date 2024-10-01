@@ -47,7 +47,7 @@
 <h3>Frontend Setup</h3>
 <ol>
   <li>Navigate to the React project directory:</li>
-  <pre><code>cd React-CRUD</code></pre>
+  <pre><code>cd Student-Information-React</code></pre>
   <li>Install the required packages:</li>
   <pre><code>npm install</code></pre>
   <li>Start the React application:</li>
@@ -57,7 +57,7 @@
 <h3>Backend Setup</h3>
 <ol>
   <li>Navigate to the ASP.NET Core Web API project directory:</li>
-  <pre><code>cd AspNetCoreWebApi-CRUD</code></pre>
+  <pre><code>cd Student-Information-React</code></pre>
   <li>Restore the dependencies:</li>
   <pre><code>dotnet restore</code></pre>
   <li>Update your database connection string in <code>appsettings.json</code>.</li>
