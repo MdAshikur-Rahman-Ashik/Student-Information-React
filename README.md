@@ -36,12 +36,12 @@
 <ul>
   <li><a href="https://nodejs.org/" target="_blank">Node.js</a> (v12 or later)</li>
   <li><a href="https://dotnet.microsoft.com/download" target="_blank">ASP.NET Core SDK</a> (v3.1 or later)</li>
-  <li>[Your choice of database]</li>
+  <li>Sql Server</li>
 </ul>
 
 <h3>📂 Clone the Repository</h3>
 <pre><code>https://github.com/MdAshikur-Rahman-Ashik/Student-Information-React.git
- https://github.com/MdAshikur-Rahman-Ashik/Student-InformationReactApi.git
+https://github.com/MdAshikur-Rahman-Ashik/Student-InformationReactApi.git
 </code></pre>
 
 <h3>Frontend Setup</h3>
@@ -50,14 +50,14 @@
   <pre><code>cd Student-Information-React</code></pre>
   <li>Install the required packages:</li>
   <pre><code>npm install</code></pre>
-  <li>Start the React application:</li>
-  <pre><code>npm start</code></pre>
+  <li>Start the React application in development mode:</li>
+  <pre><code>npm run dev</code></pre>
 </ol>
 
 <h3>Backend Setup</h3>
 <ol>
   <li>Navigate to the ASP.NET Core Web API project directory:</li>
-  <pre><code>cd Student-Information-React</code></pre>
+  <pre><code>cd Student-InformationReactApi</code></pre>
   <li>Restore the dependencies:</li>
   <pre><code>dotnet restore</code></pre>
   <li>Update your database connection string in <code>appsettings.json</code>.</li>
@@ -86,3 +86,7 @@
 <h2 id="license">📝 License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE" target="_blank">LICENSE</a> file for more details.</p>
 
+<!-- Add your screenshots here -->
+![Screenshot 1](https://github.com/user-attachments/assets/3a979fce-0282-4b13-a9e7-e9a75f25df6b)
+![Screenshot 2](https://github.com/user-attachments/assets/2884d368-ca1d-4918-8214-83799f302a5e)
+![Screenshot 3](https://github.com/user-attachments/assets/bb297f42-52f5-4398-899c-2de402a9734d)
